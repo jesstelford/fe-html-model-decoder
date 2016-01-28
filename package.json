@@ -1,6 +1,6 @@
 {
   "name": "fe-html-model-decoder",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Decode model data as encoded in a page's HTML",
   "main": "index.js",
   "scripts": {
