@@ -1,0 +1,28 @@
+{
+  "name": "fe-html-model-decoder",
+  "version": "0.0.0",
+  "description": "Decode model data as encoded in a page's HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesstelford/fe-html-model-decoder.git"
+  },
+  "keywords": [
+    "htmlencode",
+    "htmldecode",
+    "encode",
+    "model"
+  ],
+  "author": "Jess Telford <hi@jes.st> (http://jes.st)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesstelford/fe-html-model-decoder/issues"
+  },
+  "homepage": "https://github.com/jesstelford/fe-html-model-decoder#readme",
+  "dependencies": {
+    "encode-decode": "^1.0.0"
+  }
+}
